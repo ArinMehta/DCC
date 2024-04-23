@@ -1,6 +1,6 @@
 # DCC
 
-Converter is in `converter.py`.
+Converter is in `convert.py`.
 
 Imported data into SQL
 
